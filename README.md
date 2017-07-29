@@ -2,7 +2,7 @@
 <html>
 <head>
     <?php
-    include("config.php");
+    include("https://chaukighat1.000webhostapp.com/config.php");
  
     if(isset($_POST['but_upload'])){
         $name = $_FILES['file']['name'];
